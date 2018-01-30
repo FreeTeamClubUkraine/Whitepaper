@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="Freeтeam%20Whitepaper.files/filelist.xml">
-<link rel=Edit-Time-Data href="Freeтeam%20Whitepaper.files/editdata.mso">
+<link rel=File-List href="https://freeteamclub.com/github_whitepaper/wp/filelist.xml">
+<link rel=Edit-Time-Data href="https://freeteamclub.com/github_whitepaper/wp/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -23,9 +23,9 @@ w\:* {behavior:url(#default#VML);}
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="Freeтeam%20Whitepaper.files/themedata.thmx">
+<link rel=themeData href="https://freeteamclub.com/github_whitepaper/wp/themedata.thmx">
 <link rel=colorSchemeMapping
-href="Freeтeam%20Whitepaper.files/colorschememapping.xml">
+href="https://freeteamclub.com/github_whitepaper/wp/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -997,9 +997,9 @@ RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Рисунок_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
  style='width:357.75pt;height:159pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Freeтeam%20Whitepaper.files/image001.png" o:title="2"/>
+ <v:imagedata src="https://freeteamclub.com/github_whitepaper/wp/image001.png" o:title="2"/>
 </v:shape><![endif]--><![if !vml]><img width=477 height=212
-src="Freeтeam%20Whitepaper.files/image002.jpg" v:shapes="Рисунок_x0020_1"><![endif]></span><span
+src="https://freeteamclub.com/github_whitepaper/wp/image002.jpg" v:shapes="Рисунок_x0020_1"><![endif]></span><span
 style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#24292E;mso-fareast-language:RU'><o:p></o:p></span></p>
 
