@@ -12,9 +12,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=File-List href="https://freeteamclub.com/github_whitepaper/wp/filelist.xml">
 <link rel=Edit-Time-Data href="https://freeteamclub.com/github_whitepaper/wp/editdata.mso">
 <link rel=themeData href="https://freeteamclub.com/github_whitepaper/wp/themedata.thmx">
-<link rel=colorSchemeMapping
+<link rel=colorSchemeMapping href="https://freeteamclub.com/github_whitepaper/wp/colorschememapping.xml">
 <link rel="stylesheet" type="text/css" media="all" href="https://freeteamclub.com/github_whitepaper/wp/style_wp.css">
-href="https://freeteamclub.com/github_whitepaper/wp/colorschememapping.xml">
 </head>
 
 <body lang=RU style='tab-interval:35.4pt'>
