@@ -1,7 +1,7 @@
 MIME-Version: 1.0
 Content-Type: multipart/related; boundary="----=_NextPart_01D399F2.2A4D4A00"
 
-Данный документ является веб-страницей в одном файле, также называемой файлом веб-архива. Если вы видите это сообщение, значит, данный браузер или редактор не поддерживает файлы веб-архива. Загрузите браузер, поддерживающий веб-архивы, например Windows® Internet Explorer®.
+Р”Р°РЅРЅС‹Р№ РґРѕРєСѓРјРµРЅС‚ СЏРІР»СЏРµС‚СЃСЏ РІРµР±-СЃС‚СЂР°РЅРёС†РµР№ РІ РѕРґРЅРѕРј С„Р°Р№Р»Рµ, С‚Р°РєР¶Рµ РЅР°Р·С‹РІР°РµРјРѕР№ С„Р°Р№Р»РѕРј РІРµР±-Р°СЂС…РёРІР°. Р•СЃР»Рё РІС‹ РІРёРґРёС‚Рµ СЌС‚Рѕ СЃРѕРѕР±С‰РµРЅРёРµ, Р·РЅР°С‡РёС‚, РґР°РЅРЅС‹Р№ Р±СЂР°СѓР·РµСЂ РёР»Рё СЂРµРґР°РєС‚РѕСЂ РЅРµ РїРѕРґРґРµСЂР¶РёРІР°РµС‚ С„Р°Р№Р»С‹ РІРµР±-Р°СЂС…РёРІР°. Р—Р°РіСЂСѓР·РёС‚Рµ Р±СЂР°СѓР·РµСЂ, РїРѕРґРґРµСЂР¶РёРІР°СЋС‰РёР№ РІРµР±-Р°СЂС…РёРІС‹, РЅР°РїСЂРёРјРµСЂ WindowsВ® Internet ExplorerВ®.
 
 ------=_NextPart_01D399F2.2A4D4A00
 Content-Location: file:///C:/D1324D12/file4674.htm
@@ -1186,7 +1186,7 @@ ul
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:"Обычная таблица";
+	{mso-style-name:"РћР±С‹С‡РЅР°СЏ С‚Р°Р±Р»РёС†Р°";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -1209,7 +1209,7 @@ ul
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 table.MsoTableGrid
-	{mso-style-name:"Сетка таблицы";
+	{mso-style-name:"РЎРµС‚РєР° С‚Р°Р±Р»РёС†С‹";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-priority:39;
@@ -1255,7 +1255,7 @@ RU'>Free</span><span style=3D'font-size:20.0pt;font-family:"Arial",sans-ser=
 if;
 mso-fareast-font-family:"Times New Roman";color:#24292E;mso-fareast-languag=
 e:
-RU'>т</span><span class=3DSpellE><span lang=3DEN-US style=3D'font-size:20.0=
+RU'>С‚</span><span class=3DSpellE><span lang=3DEN-US style=3D'font-size:20.0=
 pt;
 font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#24292E;mso-ansi-language:EN-US;mso-fareast-language:RU'>eam</span></=
@@ -1269,8 +1269,8 @@ llE>Whitepaper</span><o:p></o:p></span></p>
 '><span
 style=3D'font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-f=
 amily:
-"Times New Roman";color:#24292E;mso-fareast-language:RU'>В этом разделе мы
-будем размещать актуальную версию </span><span lang=3DEN-US style=3D'font-s=
+"Times New Roman";color:#24292E;mso-fareast-language:RU'>Р’ СЌС‚РѕРј СЂР°Р·РґРµР»Рµ РјС‹
+Р±СѓРґРµРј СЂР°Р·РјРµС‰Р°С‚СЊ Р°РєС‚СѓР°Р»СЊРЅСѓСЋ РІРµСЂСЃРёСЋ </span><span lang=3DEN-US style=3D'font-s=
 ize:
 12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Ro=
 man";
@@ -1278,7 +1278,7 @@ color:#24292E;mso-ansi-language:EN-US;mso-fareast-language:RU'>Free</span><=
 span
 style=3D'font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-f=
 amily:
-"Times New Roman";color:#24292E;mso-fareast-language:RU'>т</span><span
+"Times New Roman";color:#24292E;mso-fareast-language:RU'>С‚</span><span
 class=3DSpellE><span lang=3DEN-US style=3D'font-size:12.0pt;font-family:"Ar=
 ial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#24292E;mso-ansi-language:E=
@@ -1292,26 +1292,26 @@ an>.<o:p></o:p></span></p>
 '><span
 style=3D'font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-f=
 amily:
-"Times New Roman";color:#24292E;mso-fareast-language:RU'>Документ содержит
-общее описание проекта </span><span lang=3DEN-US style=3D'font-size:12.0pt;
+"Times New Roman";color:#24292E;mso-fareast-language:RU'>Р”РѕРєСѓРјРµРЅС‚ СЃРѕРґРµСЂР¶РёС‚
+РѕР±С‰РµРµ РѕРїРёСЃР°РЅРёРµ РїСЂРѕРµРєС‚Р° </span><span lang=3DEN-US style=3D'font-size:12.0pt;
 font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#24292E;mso-ansi-language:EN-US;mso-fareast-language:RU'>Free</span><=
 span
 style=3D'font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-f=
 amily:
-"Times New Roman";color:#24292E;mso-fareast-language:RU'>т</span><span
+"Times New Roman";color:#24292E;mso-fareast-language:RU'>С‚</span><span
 class=3DSpellE><span lang=3DEN-US style=3D'font-size:12.0pt;font-family:"Ar=
 ial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#24292E;mso-ansi-language:E=
 N-US;
 mso-fareast-language:RU'>eam</span></span><span style=3D'font-size:12.0pt;
 font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#24292E;mso-fareast-language:RU'>, <span class=3DSpellE>блокчейна</sp=
-an> и
-его роли в системе, механизм <span class=3DSpellE>токенизации</span> проект=
-а,
-взаимодействие участников с системой и между собой, бизнес-модель и дорожную
-карту проекта.<o:p></o:p></span></p>
+color:#24292E;mso-fareast-language:RU'>, <span class=3DSpellE>Р±Р»РѕРєС‡РµР№РЅР°</sp=
+an> Рё
+РµРіРѕ СЂРѕР»Рё РІ СЃРёСЃС‚РµРјРµ, РјРµС…Р°РЅРёР·Рј <span class=3DSpellE>С‚РѕРєРµРЅРёР·Р°С†РёРё</span> РїСЂРѕРµРєС‚=
+Р°,
+РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёРµ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃ СЃРёСЃС‚РµРјРѕР№ Рё РјРµР¶РґСѓ СЃРѕР±РѕР№, Р±РёР·РЅРµСЃ-РјРѕРґРµР»СЊ Рё РґРѕСЂРѕР¶РЅСѓСЋ
+РєР°СЂС‚Сѓ РїСЂРѕРµРєС‚Р°.<o:p></o:p></span></p>
 
 <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;tex=
 t-align:
@@ -1340,13 +1340,13 @@ RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75"
  </v:formulas>
  <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"/>
  <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
-</v:shapetype><v:shape id=3D"Рисунок_x0020_1" o:spid=3D"_x0000_i1025" type=
+</v:shapetype><v:shape id=3D"Р РёСЃСѓРЅРѕРє_x0020_1" o:spid=3D"_x0000_i1025" type=
 =3D"#_x0000_t75"
  style=3D'width:357.75pt;height:159pt;visibility:visible;mso-wrap-style:squ=
 are'>
  <v:imagedata src=3D"file4674.files/image001.png" o:title=3D"2"/>
 </v:shape><![endif]--><![if !vml]><img width=3D477 height=3D212
-src=3D"file4674.files/image002.jpg" v:shapes=3D"Рисунок_x0020_1"><![endif]>=
+src=3D"file4674.files/image002.jpg" v:shapes=3D"Р РёСЃСѓРЅРѕРє_x0020_1"><![endif]>=
 </span><span
 style=3D'font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-f=
 amily:
@@ -1367,7 +1367,7 @@ family:
 
 <p class=3DMsoNormal><span style=3D'font-size:12.0pt;line-height:107%;font-=
 family:
-"Arial",sans-serif'>В настоящее время документ содержит следующие разделы:<=
+"Arial",sans-serif'>Р’ РЅР°СЃС‚РѕСЏС‰РµРµ РІСЂРµРјСЏ РґРѕРєСѓРјРµРЅС‚ СЃРѕРґРµСЂР¶РёС‚ СЃР»РµРґСѓСЋС‰РёРµ СЂР°Р·РґРµР»С‹:<=
 o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-size:12.0pt;line-height:107%;font-=
@@ -1377,41 +1377,41 @@ family:
 
 <p class=3DMsoNormal><span style=3D'font-size:12.0pt;line-height:107%;font-=
 family:
-"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>Общая концепция<o:=
+"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>РћР±С‰Р°СЏ РєРѕРЅС†РµРїС†РёСЏ<o:=
 p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-size:12.0pt;line-height:107%;font-=
 family:
-"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>Рынок онлайн-покер=
-а<o:p></o:p></span></p>
+"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>Р С‹РЅРѕРє РѕРЅР»Р°Р№РЅ-РїРѕРєРµСЂ=
+Р°<o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span class=3DSpellE><span style=3D'font-size:12.0pt;l=
 ine-height:
 107%;font-family:"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>F=
-reeтeam</span></span><span
+reeС‚eam</span></span><span
 style=3D'font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
-color:#5B9BD5;mso-themecolor:accent1'> сегодня<o:p></o:p></span></p>
+color:#5B9BD5;mso-themecolor:accent1'> СЃРµРіРѕРґРЅСЏ<o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span class=3DSpellE><span style=3D'font-size:12.0pt;l=
 ine-height:
-107%;font-family:"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>Т=
-окенизация</span></span><span
+107%;font-family:"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>Рў=
+РѕРєРµРЅРёР·Р°С†РёСЏ</span></span><span
 style=3D'font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
-color:#5B9BD5;mso-themecolor:accent1'> рынка покера<o:p></o:p></span></p>
+color:#5B9BD5;mso-themecolor:accent1'> СЂС‹РЅРєР° РїРѕРєРµСЂР°<o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-size:12.0pt;line-height:107%;font-=
 family:
-"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>План развития<o:p>=
+"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>РџР»Р°РЅ СЂР°Р·РІРёС‚РёСЏ<o:p>=
 </o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Arial",sans-serif;color:#5=
 B9BD5;
-mso-themecolor:accent1'>Команда проекта<o:p></o:p></span></p>
+mso-themecolor:accent1'>РљРѕРјР°РЅРґР° РїСЂРѕРµРєС‚Р°<o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-size:12.0pt;line-height:107%;font-=
 family:
-"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>Взаимоотношения с =
-инвесторами</span><span
+"Arial",sans-serif;color:#5B9BD5;mso-themecolor:accent1'>Р’Р·Р°РёРјРѕРѕС‚РЅРѕС€РµРЅРёСЏ СЃ =
+РёРЅРІРµСЃС‚РѕСЂР°РјРё</span><span
 lang=3DEN-US style=3D'font-size:14.0pt;line-height:107%;font-family:"Bebas =
 Neue";
 mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri;color:#2E74B5;
@@ -1435,8 +1435,8 @@ RU'>Whitepaper</span></span><span style=3D'font-size:12.0pt;font-family:"Ar=
 ial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#24292E;mso-fareast-languag=
 e:
-RU'> будет обновляться в процессе развития проекта. Изменения и дополнения
-будут публиковаться здесь по мере выхода.<o:p></o:p></span></p>
+RU'> Р±СѓРґРµС‚ РѕР±РЅРѕРІР»СЏС‚СЊСЃСЏ РІ РїСЂРѕС†РµСЃСЃРµ СЂР°Р·РІРёС‚РёСЏ РїСЂРѕРµРєС‚Р°. РР·РјРµРЅРµРЅРёСЏ Рё РґРѕРїРѕР»РЅРµРЅРёСЏ
+Р±СѓРґСѓС‚ РїСѓР±Р»РёРєРѕРІР°С‚СЊСЃСЏ Р·РґРµСЃСЊ РїРѕ РјРµСЂРµ РІС‹С…РѕРґР°.<o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Arial",sans-serif'><o:p>&n=
 bsp;</o:p></span></p>
