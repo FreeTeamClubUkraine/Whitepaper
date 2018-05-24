@@ -1,7 +1,7 @@
 # FreeTeam Whitepaper
 Документ содержит общее описание проекта FreeTeam, блокчейна и его роли в системе, механизм токенизации проекта, взаимодействие участников с системой и между собой, бизнес-модель и дорожную карту проекта.
 
-![ftc_token_offering](https://freeteamclub.com/images/ftc_token_offering.png)
+![ftc_token_offering](https://freeteamclub.com/images/ftc_token_offering-2.png)
 
 В настоящее время документ содержит следующие разделы:
 * Общая концепция
